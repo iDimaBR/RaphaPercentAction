@@ -1,0 +1,9 @@
+name: RaphaPercentAction
+version: '${project.version}'
+main: com.github.idimabr.RaphaPercentAction
+api-version: 1.19
+prefix: RaphaPercentAction
+authors: [ iDimaBR ]
+commands:
+  percentaction:
+    aliases: [pa]

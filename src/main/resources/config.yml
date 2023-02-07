@@ -1,0 +1,27 @@
+WorldList:
+  - "world"
+
+Blocks:
+  stone:
+    type: STONE
+    chance: 50
+    commands:
+      - "teste {player}"
+  stone2:
+    type: COBBLESTONE
+    chance: 50
+    commands:
+      - "teste {player}"
+Farm:
+  wheat:
+    type: WHEAT
+    age: 7
+    chance: 50
+    commands:
+      - "teste {player}"
+Mobs:
+  zombie:
+    type: ZOMBIE
+    chance: 30
+    commands:
+      - "teste {player}"
